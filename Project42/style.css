@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../Project42/Roboto-Regular.ttf);
+  }
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: #FFFFFF;
+}
+
+
+.dove{
+    float: left;
+    width: 800px;
+    height: 625px;
+}
+
+.text{
+    position: relative;
+}
+
+.logo1{
+    margin-top: 115px;
+    margin-left: 60px;
+}
+
+h1{
+    position: absolute;
+    float: left;
+    margin-left: 862px;
+    margin-top: 23px;
+    font-size: 45px;
+    font-family: Roboto;
+}
+
+h2{
+    position: absolute;
+    margin-left: 862px;
+    margin-top: 107px;
+    font-family: Roboto;
+}
+
+.google{
+    border-radius: 30px;
+    border: 1px solid #E4EAED;
+    width: 250px;
+    height: 42px;
+    margin-left: 65px; 
+    margin-top: 155px;
+    background-color: transparent;
+}
+
+.gg{
+    position: absolute;
+    margin-top: -16px;
+    margin-left: -80px;
+}
+
+span.ll{
+   position:absolute;
+   color: #000000;
+   margin-left: -45px;
+   margin-top: -8px;
+   font-family: Roboto;
+   font-size: 14px;
+}
+
+.apple{
+    border-radius: 30px;
+    border: 1px solid #E4EAED;
+    width: 250px;
+    height: 42px;
+    margin-left: 65px; 
+    margin-top: 10px;
+    background-color: transparent;  
+   
+    
+}
+
+.aa{
+    position: absolute;
+    margin-top: -16px;
+    margin-left: -80px;
+}
+
+span.kk{
+    position:absolute;
+    color: #000000;
+    margin-left: -45px;
+    margin-top: -8px;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.sign{
+    border-radius: 30px;
+    border: 1px solid #E4EAED;
+    width: 250px;
+    height: 42px;
+    margin-left: 65px; 
+    margin-top: 10px;
+    background-color: transparent;     
+}
+
+span.jj{
+    position:absolute;
+    color: #000000;
+    margin-left: -83px;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+p{
+    position: absolute;
+    margin-left: 870px;
+    font-size: 12px;
+    margin-top: 20px;
+    font-family: Roboto;
+}
+
+.hrf{
+    color: #1E97E1;
+    text-decoration: none;
+}
+
+small{
+    float: right;
+    margin-top: 7px;
+    margin-right: 95px;
+    font-size: 10px;
+    font-family: Roboto;
+}
